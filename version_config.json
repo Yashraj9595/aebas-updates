@@ -1,0 +1,8 @@
+{
+  "latest_version": 278,
+  "show_dialog": false,
+  "title": "AadhaarBAS Notice",
+  "message": "A newer version is available – please update.",
+  "update_url": "https://example.com/downloads/AadhaarBAS_latest.apk",
+  "expires_at": "2027-12-31"
+}
